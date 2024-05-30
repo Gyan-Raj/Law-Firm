@@ -1,0 +1,84 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  padding: 150px;
+  position: static;
+}
+.heading {
+  height: 194px;
+  width: 571px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 66px;
+  line-height: 97px;
+  margin: 20px;
+}
+.span {
+  font-weight: 700;
+}
+.p {
+  width: 560px;
+  height: 100px;
+  opacity: 30%;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: justify;
+}
+.imageBackground {
+  height: 400px;
+  width: 450px;
+  border-radius: 50px;
+  background-color: yellow;
+  /* position: relative; */
+  /* top: 00px; */
+}
+.image {
+  width: 650px;
+  height: 520px;
+  overflow: auto;
+  position: relative;
+  bottom: 120px;
+  right: 100px;
+}
+.emailBox {
+  margin: 50px;
+  margin-left: 0px;
+  height: 75px;
+  width: 500px;
+  background-color: black;
+  border: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 40px;
+  position: static;
+}
+.mailImage {
+  width: 50px;
+  height: 30px;
+  position: relative;
+  left: 60px;
+  /* opacity: 200%; */
+}
+.input {
+  opacity: 30%;
+  height: 80%;
+  width: 90%;
+  border-radius: 40px;
+  padding-left: 70px;
+}
+.button {
+  height: 65%;
+  width: 20%;
+  position: relative;
+  right: 90px;
+  border-radius: 40px;
+  background-color: yellow;
+  opacity: 90%;
+}

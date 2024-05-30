@@ -1,0 +1,15 @@
+.container {
+  height: 100%;
+  width: 30.3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 30.3px;
+  width: 30.41px;
+  background: rgba(227, 183, 72, 1);
+}
+.text {
+  color: white;
+}

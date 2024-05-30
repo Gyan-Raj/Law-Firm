@@ -1,0 +1,12 @@
+.container {
+  height: 100%;
+  width: 45%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.button {
+  background-color: black;
+  border: 0px;
+  color: white;
+}

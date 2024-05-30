@@ -1,0 +1,71 @@
+.container {
+  height: 174px;
+  width: 1132px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  padding-top: 50px;
+  position: relative;
+  left: 250px;
+}
+.text {
+  width: 387px;
+  height: 174px;
+  /* top: 1081px;
+  left: 150px;
+  gap: 0px;
+  opacity: 0px; */
+  font-family: Inter;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 87.22px;
+  text-align: left;
+}
+.line {
+  width: 206px;
+  height: 0px;
+  position: relative;
+
+  top: 100px;
+  /* left: 720px; */
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  rotate: -90deg;
+  /* angle: -90 deg; */
+  border: 1px solid rgba(106, 106, 106, 1);
+}
+.lawyer {
+  width: 475px;
+  height: 155px;
+  /* top: 1084px;
+  left: 807px; */
+  gap: 0px;
+  opacity: 0px;
+}
+.lawyerHead {
+  width: 249px;
+  height: 52px;
+  /* top: 1084px;
+  left: 807px; */
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 52.01px;
+  text-align: center;
+}
+.lawyerBody {
+  width: 475px;
+  height: 87px;
+  /* top: 1152px;
+  left: 807px; */
+  gap: 0px;
+  opacity: 0.3px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 29.25px;
+  text-align: left;
+}
